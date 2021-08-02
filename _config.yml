@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   OSQP is an efficient general purpose solver for quadratic programs.
   It is open-source and suite all range of applications from embedded
   to large-scale.
-baseurl: "/osqp.org" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vineetbansal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -29,8 +29,8 @@ google_analytics: UA-56714542-3
 discourse_link: https://osqp.discourse.group/
 
 # Which folders to include?
-source: src
-destination: _site
+# source: src
+# destination: _site
 
 include:
     - _pages
@@ -67,7 +67,7 @@ theme: minima
 
 # Sass/SCSS
 sass:
-  sass_dir: assets 
+  sass_dir: _sass 
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
