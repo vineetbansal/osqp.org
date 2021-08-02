@@ -29,8 +29,8 @@ google_analytics: UA-56714542-3
 discourse_link: https://osqp.discourse.group/
 
 # Which folders to include?
-# source: src
-# destination: _site
+source: src
+destination: _site
 
 include:
     - _pages
