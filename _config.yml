@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   OSQP is an efficient general purpose solver for quadratic programs.
   It is open-source and suite all range of applications from embedded
   to large-scale.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/osqp.org" # the subpath of your site, e.g. /blog
 url: "https://osqp.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
